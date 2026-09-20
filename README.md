@@ -11,4 +11,14 @@ O projeto busca incentivar o uso consciente da água e mostrar como a programaç
 
 Utilização![Engrenagem](https://img.shields.io/badge/⚙️_-gray)
 
-O projeto pede qual é o seu tipo de residência e quanto metros cúbicos de água você utiliza mensalmente, após as informações, o programa de instrui falando sem seu consumo é moderado ou exessivo.
+Como executar
+Instale o Python 3.
+Abra o terminal na pasta do projeto.
+Execute:
+python app.py
+Informe o tipo de imóvel:
+
+comercial
+casa
+apartamento
+Informe o consumo mensal em m³.
