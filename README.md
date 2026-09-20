@@ -7,4 +7,4 @@ Eu criei o programa em Python para saber se o consumo de água é adequado em v�
  Objetivo
  
 O projeto busca incentivar o uso consciente da água e mostrar como a programação pode contribuir para a sustentabilidade.
-![Natureza](https://img.shields.io/badge/🌱_Natureza-Sustentabilidade-green)
+![Natureza](https://img.shields.io/badge/🌱_-green)
